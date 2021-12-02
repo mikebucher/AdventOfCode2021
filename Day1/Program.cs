@@ -11,7 +11,7 @@ namespace ConsoleApp1
         //part 1
         //static void Main(string[] args)
         //{
-        //    var path = @"C:\Users\miked\source\repos\AdventOfCode2021\ConsoleApp1\input.txt";
+        //    var path = @"C:\Users\miked\source\repos\AdventOfCode2021\Day1\input.txt";
         //    var depths = File.ReadAllLines(path);
         //    var depthlist = depths.Select(int.Parse).ToList();
 
@@ -29,7 +29,7 @@ namespace ConsoleApp1
         //part 2
         static void Main(string[] args)
         {
-            var path = @"C:\Users\miked\source\repos\AdventOfCode2021\ConsoleApp1\input.txt";
+            var path = @"C:\Users\miked\source\repos\AdventOfCode2021\Day1\input.txt";
             var depths = File.ReadAllLines(path);
             var depthlist = depths.Select(int.Parse).ToList();
 
